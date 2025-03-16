@@ -4,6 +4,6 @@
 
   Para ejecutar el sistema debes escribir
 
-  '''rpm install react'''
+  ´´´rpm install react´´´
 
   Juego Numero Secreto Final
