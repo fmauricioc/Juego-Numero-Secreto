@@ -7,3 +7,6 @@
   ´´´rpm install react´´´
 
   Juego Numero Secreto Final
+
+  error
+
